@@ -1,0 +1,1 @@
+Server/Client programs that encrypt and decrypt information (utilizing a randomly generated key), communicating with one another via sockets.
